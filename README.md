@@ -1,4 +1,5 @@
 ### Hello there, Tim here 👋
+<sup>♂ He/Him.</sup>
 
 ## 🧑🏻‍ Who I am
 <ol>
@@ -6,7 +7,6 @@
 <li> I am married with no kids (yet).</li>
 <li> I will be okay.</li>
 </ol>
-♂ My pronouns are He/Him.
 
 ## 💻 What I do
 <ol>
