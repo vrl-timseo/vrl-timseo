@@ -1,5 +1,4 @@
-### Hello there, Tim here 👋
-<sup>♂ He/Him.</sup>
+### Hello there, Tim<sup><sup>♂ He/Him</sup></sup> here 👋
 
 ## 🧑🏻‍ Who I am
 <ol>
